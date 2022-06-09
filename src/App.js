@@ -1,6 +1,7 @@
 function App() {
   return (
     <div className="App">
+      Hello I'm a snipet
     </div>
   );
 }
